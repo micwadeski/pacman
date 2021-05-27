@@ -1,6 +1,6 @@
 # Pacman Factory
 
-This is an exercise designed to create Pacmen and send them through time and space at random directions and velocities.
+This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
 
 ## Description
 
