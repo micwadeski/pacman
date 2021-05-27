@@ -24,10 +24,10 @@ I can be reached via email at micwadeski@gmail.com, or connect with me on Linked
 
 ## Roadmap
 
-Have Pacman actually eat the dots, so they disappear.
-Modify the CSS to more closely emulate the original Pacman game styling.
-Allow Pacman to also move vertically.
-Allow Pacman's directiom to be controlled by keyboard input.
+* Have Pacman actually eat the dots, so they disappear.
+* Modify the CSS to more closely emulate the original Pacman game styling.
+* Allow Pacman to also move vertically.
+* Allow Pacman's directiom to be controlled by keyboard input.
 
 ## License Information
 
