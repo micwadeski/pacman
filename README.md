@@ -1,10 +1,10 @@
-#Pacman
+#Pacman Factory
 
-This is an exercise to mimic the Pacman game.
+This is an exercise designed to create Pacmen and send them through time and space at random directions and velocities.
 
 ##Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The object of this exercise is to create a very basic sample of Pacman's movement, using HTML, CSS, JavaScript, and an array of images.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, and array manipulation.
 
 ##Installation
 
