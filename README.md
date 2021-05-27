@@ -16,7 +16,7 @@ The current version....
 
 ## Support
 
-I can be reached via email at david@d2weblogic.com, or connect with me on LinkedIn at https://www.linkedin.com/in/david-diaz-b64aa88a/
+I can be reached via email at micwadeski@gmail.com, or connect with me on LinkedIn at https://www.linkedin.com/in/micwadeski/
 
 ## Roadmap
 
