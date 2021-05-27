@@ -1,5 +1,7 @@
 # Pacman Factory
 
+[pacman](micwadeski.github.io/assets/images/development/eyes.jpg)
+
 This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
 
 ## Description
