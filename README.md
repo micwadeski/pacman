@@ -4,15 +4,15 @@ This is an exercise designed to create Pacmen and send them through digital time
 
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, and array manipulation.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, array manipulation and DOM manipulation.
 
 ## Installation
 
-Download the index.html file and four .png image files. The index.html file can be run in any web browser, while hosted either locally or on a remote web server. You can run the index.html in this repo file by visting this URL: https://dcdiaz.github.io/pacman/index.html
+Download the index.html file and four .png image files. The index.html file can be run in any web browser, while hosted either locally or on a remote web server. You can run the index.html in this repo file by visting this URL: https://micwadeski.github.io/pacman/
 
 ## Usage
 
-The current version of this program allows Pacman to only move right and left, reversing direction when he reaches the window's edge. The "dots" he chomps are being dynamically generated, but do not expect the dots to disappear when Pacman chomps them. That is still a "To Do" item for the near future.
+The current version....
 
 ## Support
 
