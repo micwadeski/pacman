@@ -1,6 +1,6 @@
 # Pacman Factory
 
-![pacman](https://i.pinimg.com/564x/da/61/60/da61606b5c06cbac4330860b17ee6ad2.jpg)
+![Pacman](https://i.pinimg.com/564x/da/61/60/da61606b5c06cbac4330860b17ee6ad2.jpg)
 
 This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
 
