@@ -2,11 +2,9 @@
 
 ![Pacman](https://i.pinimg.com/564x/da/61/60/da61606b5c06cbac4330860b17ee6ad2.jpg)
 
-This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
-
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, array manipulation and DOM manipulation.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, array manipulation and DOM manipulation. Everytime you click the button, pacmen will be sent through digital time and space at random directions and velocities.
 
 ## Installation
 
