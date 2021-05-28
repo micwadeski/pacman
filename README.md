@@ -10,7 +10,7 @@ This is a coding exercise assigned through the MIT xPro "Professional Certificat
 
 ## Installation
 
-Click the green "Code" button and download the .zip folder containing the repo to your local machine. Once it is downloaded, expand the folder and double click the index.html file to open it up in your default browser.
+Click the green "Code" button and download the .zip folder containing the repo to your local machine. Once it is downloaded, expand the folder and double click the index.html file to open it up in your default browser. You just have to make sure that all files are downloaded and placed within the same folder in order for the index.html file to work.
 
 ## Usage
 
