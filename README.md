@@ -1,6 +1,6 @@
 # Pacman Factory
 
-[pacman](micwadeski.github.io/assets/images/development/eyes.jpg)
+![pacman](micwadeski.github.io/assets/images/development/pacman.jpg)
 
 This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
 
@@ -10,24 +10,25 @@ This is a coding exercise assigned through the MIT xPro "Professional Certificat
 
 ## Installation
 
-Download the index.html file and four .png image files. The index.html file can be run in any web browser, while hosted either locally or on a remote web server. You can run the index.html in this repo file by visting this URL: https://micwadeski.github.io/pacman/
+Click the green "Code" button and download the .zip folder containing the repo to your local machine. Once it is downloaded, expand the folder and double click the index.html file to open it up in your default browser.
 
 ## Usage
 
-When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen.
+When you click the "Add PacMan" button, a new pacman should appear at a random position within the top left corner of the screen.
 When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen.
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
 
 ## Support
 
-I can be reached via email at micwadeski@gmail.com, or connect with me on LinkedIn at https://www.linkedin.com/in/micwadeski/
+I can be reached via email at micwadeski@gmail.com, or connect with me on LinkedIn at https://www.linkedin.com/in/micwadeski/ for any assistance.
 
 ## Roadmap
 
-* Have Pacman actually eat the dots, so they disappear.
-* Modify the CSS to more closely emulate the original Pacman game styling.
-* Allow Pacman to also move vertically.
-* Allow Pacman's directiom to be controlled by keyboard input.
+* Set up a maze type environment that the pacman or pacmen can navigate through
+* Modify the styling to further resemble that 8-bit, arcade game style
+* Allow Pacman to be controlled by using the direction pad of the keyboard.
+* Create dots that pacman has to eat as he makes it through the maze.
+* At the end of the maze, have the pacman eat cherries, that cause the game to reset to a new, more difficult level.
 
 ## License Information
 
